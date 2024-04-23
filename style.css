@@ -1,0 +1,107 @@
+*
+{
+    margin: 5px;
+    padding: 10;
+}
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    
+}
+nav ul
+{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+   
+}
+.s1
+{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+/* footer
+{
+    bottom: 0;
+    text-align: center;
+    margin-left: 450px;
+    position: absolute;
+
+}
+footer h1
+{
+    text-align: center;
+} */
+.music
+{
+    font-size: 90px;
+    margin-left: 50px;
+}
+.main-section
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+   
+    
+}  
+
+.subdiv-1
+{
+    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.subdiv-1 ul li
+{
+    margin-bottom: 5px;
+list-style-type: none;
+}
+.subdiv-2
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.subdiv-2 ul li
+{
+list-style-type: none;
+}
+.subdiv-3
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.subdiv-3 ul li
+{
+list-style-type: none;
+}
+.subdiv-4
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.subdiv-4 ul li
+{
+list-style-type: none;
+}
+.s2
+{
+  font-size: larger;
+}
+.p1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-large;
+}
